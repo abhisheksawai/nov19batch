@@ -18,7 +18,7 @@ public class propertiesFileDemo {
 		WebDriver driver = new ChromeDriver();
 		//driver.get("https://www.facebook.com/");	
 		System.out.println("launched");
-		
+		System.out.println("corect code");
 		
 		Thread.sleep(3000);
 	//	driver.findElement(By.xpath("//input[@type='password']")).sendKeys("pass");
