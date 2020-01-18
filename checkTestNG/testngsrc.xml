@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngPack.demo2"/>
+      <class name="testngPack.demo1"/>
+      <class name="testngPack.demo10"/>
+      <class name="testngPack.demo9"/>
+      <class name="multiple.demo4"/>
+      <class name="testngPack.demo8"/>
+      <class name="multiple.demo5"/>
+      <class name="testngPack.demo7"/>
+      <class name="testngPack.demo6"/>
+      <class name="testngPack.demo5"/>
+      <class name="testngPack.demo4"/>
+      <class name="testngPack.checkTestNg"/>
+      <class name="testngPack.demo3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
